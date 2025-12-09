@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "NEW LOOK",
+  "base_artist": "MISAMO",
+  "createdAt": "2025-12-09T10:28:34.187441Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "New Look",
+      "artist": "Rita Ora",
+      "has_synced": true,
+      "path": "select/01_New_Look_Rita_Ora.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "New Look",
+      "artist": "tripleS",
+      "has_synced": false,
+      "path": "select/02_New_Look_tripleS.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "NEW LOOK",
+      "artist": "Namie Amuro",
+      "has_synced": true,
+      "path": "select/03_NEW_LOOK_Namie_Amuro.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "White Sky (New Look Remix)",
+      "artist": "Vampire Weekend",
+      "has_synced": false,
+      "path": "select/04_White_Sky_(New_Look_Remix)_Vampire_Weekend.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "New Look",
+      "artist": "Namie Amuro",
+      "has_synced": true,
+      "path": "select/05_New_Look_Namie_Amuro.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "New Look",
+      "artist": "安室奈美恵",
+      "has_synced": true,
+      "path": "select/06_New_Look_安室奈美恵.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "White Cliffs Of Dover (The New Look: Season 1 (Apple TV+ Original Series Soundtrack))",
+      "artist": "Florence + The Machine",
+      "has_synced": true,
+      "path": "select/07_White_Cliffs_Of_Dover_(The_New_Look__Season_1_(Apple_TV+_Original_Series_Soundtr_Florence_+_The_Machine.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Blue Skies - From \"The New Look\" Soundtrack",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/08_Blue_Skies_-_From__The_New_Look__Soundtrack_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Blue Skies (From \"The New Look\" Soundtrack)",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/09_Blue_Skies_(From__The_New_Look__Soundtrack)_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "It's Only A Paper Moon (The New Look: Season 1 (Apple TV+ Original Series Soundtrack))",
+      "artist": "beabadoobee",
+      "has_synced": true,
+      "path": "select/10_It's_Only_A_Paper_Moon_(The_New_Look__Season_1_(Apple_TV+_Original_Series_Soundt_beabadoobee.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Blue Skies (The New Look: Season 1 (Apple TV+ Original Series Soundtrack))",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/11_Blue_Skies_(The_New_Look__Season_1_(Apple_TV+_Original_Series_Soundtrack))_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Now Is The Hour (The New Look: Season 1 (Apple TV+ Original Series Soundtrack))",
+      "artist": "The 1975",
+      "has_synced": true,
+      "path": "select/12_Now_Is_The_Hour_(The_New_Look__Season_1_(Apple_TV+_Original_Series_Soundtrack))_The_1975.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Now Is The Hour (The New Look  Season 1",
+      "artist": "The 1975",
+      "has_synced": true,
+      "path": "select/13_Now_Is_The_Hour_(The_New_Look_Season_1_The_1975.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "New Look",
+      "artist": "Rita Ora",
+      "has_synced": true,
+      "path": "select/14_New_Look_Rita_Ora.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "NEW LOOK",
+      "artist": "安室奈美恵",
+      "has_synced": true,
+      "path": "select/15_NEW_LOOK_安室奈美恵.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NEW LOOK",
+      "artist": "MISAMO",
+      "has_synced": false,
+      "path": "select/pl_01_NEW_LOOK_MISAMO.txt"
+    }
+  ]
+}
